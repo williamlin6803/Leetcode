@@ -1,2 +1,2 @@
 # Leetcode
-Journey to becoming a better Leetcoder (restarting on new account)
+Journey to becoming a better Leetcoder and acing my technical interviews :)
