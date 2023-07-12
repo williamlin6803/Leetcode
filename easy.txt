@@ -1,0 +1,39 @@
+Progess Bar:
+7/11/23 82 Easy Questions
+
+1. Two Sum 
+Time: 5 min
+Notes: Use dictionary to map value to index
+
+9. Palindrome Number
+Time: 2 min
+Notes: Convert int to String
+
+13. Roman to Integer
+Time: 2 min
+Notes: Subtract if next char is greater else add
+
+14. Longest Common Prefix
+Time: 5 min
+Notes: Compare char in first string with other strings. Loop from 0 to min length of strings
+
+20. Valid Parentheses
+Time: 5 min
+Notes: Use stack to store opening brackets. Pop if closing bracket matches
+
+21. Merge Two Sorted Lists
+Time: 5 min
+Notes: Use dummy node to store head. Compare values of two lists and add to dummy node
+
+26. Remove Duplicates from Sorted Array
+Time: 5 min
+Notes: Two pointers, one to iterate and one to store index of unique values
+
+27. Remove Element
+
+28. Find the Index of the First Occurrence in a String
+
+35. Search Insert Position
+
+
+
