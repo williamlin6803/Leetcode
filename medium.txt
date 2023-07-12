@@ -1,2 +1,7 @@
 Progess Bar:
 7/11/23 57 Medium Questions
+7/12/23 58 Medium Questions
+
+1004. Max Consecutive Ones III
+Time: 25 min
+Notes: Sliding Window
