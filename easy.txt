@@ -35,5 +35,9 @@ Notes: Two pointers, one to iterate and one to store index of unique values
 
 35. Search Insert Position
 
+697. Degree of an Array
+Time: 15 min
+Notes: Hashmap
+
 
 
