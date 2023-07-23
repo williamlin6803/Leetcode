@@ -1,9 +1,18 @@
 Progess Bar:
 7/11/23 57 Medium Questions
 7/12/23 58 Medium Questions
+7/23/23 60 Medium Questions
 
 1004. Max Consecutive Ones III
 Time: 25 min
 Notes: Sliding Window
+
+526. Beautiful Arrangement
+Time: 30 min
+Notes: Dfs backtracking
+
+24. Swap Nodes in Pairs
+Time: 10 min
+Notes: Dummy Node
 
 Come back to 207. Course Schedule
