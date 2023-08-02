@@ -19,4 +19,8 @@ Notes: Dummy Node
 Time: 10 min
 Notes: Optimized the solution using Sliding Window
 
+57. Insert Interval
+Time: Gave up after 30 min
+Notes: Ignoring intervals before merge. Then find start and end intervals and delete them. Insert final merged Interval
+
 Come back to 207. Course Schedule
