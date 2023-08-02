@@ -15,4 +15,8 @@ Notes: Dfs backtracking
 Time: 10 min
 Notes: Dummy Node
 
+3. Longest Substring without Repeating Characters
+Time: 10 min
+Notes: Optimized the solution using Sliding Window
+
 Come back to 207. Course Schedule
