@@ -23,4 +23,8 @@ Notes: Optimized the solution using Sliding Window
 Time: Gave up after 30 min
 Notes: Ignoring intervals before merge. Then find start and end intervals and delete them. Insert final merged Interval
 
+98. Validate Binary Search Tree
+Time: Gave up after 10 min
+Notes: Helper function with lower and upper depending on if you traverse left or right
+
 Come back to 207. Course Schedule
