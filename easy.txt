@@ -1,5 +1,6 @@
 Progess Bar:
 7/11/23 82 Easy Questions
+8/4/23 87 Easy Questions
 
 1. Two Sum 
 Time: 5 min
