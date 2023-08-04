@@ -3,6 +3,7 @@ Progess Bar:
 7/12/23 58 Medium Questions
 7/23/23 60 Medium Questions
 8/2/23 65 Medium Questions
+8/4/23 66 Medium Questions
 
 1004. Max Consecutive Ones III
 Time: 25 min
@@ -31,5 +32,9 @@ Notes: Helper function with lower and upper depending on if you traverse left or
 994. Rotten Oranges
 Time: 15 min
 Notes: Standard BFS
+
+73. Set Matrix Zeroes
+Time: 10 min
+Notes: Use List to store location of initial zeros
 
 Come back to 207. Course Schedule
