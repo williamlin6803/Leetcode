@@ -45,4 +45,8 @@ Notes: iterate from index 1 to len(colors)-1
 Time: 10 min
 Notes: Hashmap
 
+1328. Break a Palindrome
+Time: Gave up after 10 min
+Notes: Can only replace with 'a' or 'b'
+
 Come back to 207. Course Schedule
