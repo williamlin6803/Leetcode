@@ -37,4 +37,8 @@ Notes: Standard BFS
 Time: 10 min
 Notes: Use List to store location of initial zeros
 
+2038. Remove Colored Pieces if Both Neighbors are the Same color
+Time: 2 min Already done before in Hankerrank
+Notes: iterate from index 1 to len(colors)-1
+
 Come back to 207. Course Schedule
