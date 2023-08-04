@@ -41,4 +41,8 @@ Notes: Use List to store location of initial zeros
 Time: 2 min Already done before in Hankerrank
 Notes: iterate from index 1 to len(colors)-1
 
+1481. Least Number of Unique Integers After K Removals
+Time: 10 min
+Notes: Hashmap
+
 Come back to 207. Course Schedule
