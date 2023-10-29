@@ -5,6 +5,7 @@ Progess Bar:
 8/2/23 65 Medium Questions
 8/4/23 69 Medium Questions
 10/24/23 87 Medium Questions
+10/28/23 91 Medium Questions
 
 1004. Max Consecutive Ones III
 Time: 25 min
@@ -49,5 +50,17 @@ Notes: Hashmap
 1328. Break a Palindrome
 Time: Gave up after 10 min
 Notes: Can only replace with 'a' or 'b'
+
+146. LRU Cache
+Time: 40 min
+Notes: Hashmap doubly linked list
+
+208. Trie
+Time: 30 min
+Notes: Hashmap to store child and -1 to signify last character
+
+211. Design Add and Search Words Data Structure
+Time: 30 min
+Notes: Hashmap to store child & explore every child using dfs is character is "."
 
 Come back to 207. Course Schedule
